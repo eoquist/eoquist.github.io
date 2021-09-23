@@ -7,8 +7,11 @@
 }
 
 img {
+    float: left;
+    margin: 0 20px 0 0;
     border: 3px solid;
-    padding: 5px;
+    height: 250px;
+    width: auto;
 }
 
 title {
