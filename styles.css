@@ -1,9 +1,14 @@
 * {
     color: #000000; 
     background-color: #A1A498; /* Green Grey*/
-    font-family: "Times New Roman", serif;
+    font-family: "Helvetica", serif;
     font-weight: normal;
     font-size: 10px;
+}
+
+img {
+    border: 10px solid;
+    padding: 5px;
 }
 
 title {
@@ -14,6 +19,12 @@ body {
     font-size: 2em;
 }
 
-h1 {
+.bio {
+    /* class selector and 2 element selectors */
+    border: 3px thin;
+    padding: 2px;
+}
+
+.title {
     font-size: 1.5em;
 }
