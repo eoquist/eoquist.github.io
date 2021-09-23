@@ -7,7 +7,7 @@
 }
 
 img {
-    border: 10px solid;
+    border: 3px solid;
     padding: 5px;
 }
 
@@ -25,6 +25,7 @@ body {
     padding: 2px;
 }
 
-.title {
-    font-size: 1.5em;
+h1 {
+    font-weight: bold;
+    font-size: 2em;
 }
