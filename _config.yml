@@ -24,14 +24,10 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # If you don't want to use any icon, you can leave them blank.
 email: ecmoquist@gmail.com
 facebook_username: /
-twitter_username: /
 instagram_username: /
 linkedin_username: /
 github_username:  eoquist
 youtube_channel_id: UCT_Y5HQbciUzl5ctbTMFdGA    # SOUP -- non-coding stuff
-reddit_username: /
-behance_username: /
-dribbble_username: /
 spotify_username: /
 
 # Google Analytics
@@ -84,7 +80,8 @@ defaults:
       layout: page
 
 # Exclude
-exclude:
+exclude::)
+
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
